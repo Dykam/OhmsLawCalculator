@@ -1,0 +1,35 @@
+=============================================
+|                                           |
+|                                           |
+|            Ohm's Law Calculator           |
+|                                           |
+|                                           |
+=============================================
+
+++ Description ++
+
+Ohm's Law Calculator is a mobile application which allows you to use the Ohm's law formula ( E = I / R ) to calculate the voltage, current, resistance, or resistance value of any single resistor in a circuit. A value of -1 designates an unknown value.
+
+Ohm's Law Calculator  is currently only available on Android. However, ports to Windows Phone 7, webOS, and iOS are planned.
+
+++ Source Code ++
+
+The source code to Ohm's Law Calculator is licensed under the GPL v3. If you do something cool with it, please feel free to let me know.
+
+
+++ Available on the Android Marketplace ++
+
+https://market.android.com/details?id=com.robertszkutak.ohmslawcalculator
+
+
+-- My Twitter --
+
+http://twitter.com/#!/robertszkutak
+
+-- My Website --
+
+http://robertszkutak.com
+
+-- My Blog --
+
+http://robertszkutak.blogspot.com
